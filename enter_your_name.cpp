@@ -11,7 +11,7 @@ int main()                      // Funcion principal del programa
 
     cout << "Hello " << name << endl;  // intruccion endl Salto de linea en consola
 
-    //cin.ignore();                      // Funcion para
+    //cin.ignore();                      // Funcion para aa
    //cin.get();
 
     return 0;
